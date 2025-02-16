@@ -1,0 +1,6 @@
+[package]
+name = "letmeknow"
+version = "2025.2.0"
+edition = "2021"
+
+[dependencies]
